@@ -13,7 +13,10 @@
 
 ## Community projects
 
-TODO: list projects
+### Extensions
+
+[**Redirect**](https://github.com/blueprint-community/extension-redirect)\
+[**Snowflakes**](https://github.com/blueprint-community/extension-snowflakes)
 
 <br/>
 
