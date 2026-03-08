@@ -18,7 +18,8 @@
 [**Darkenate**](https://github.com/blueprint-community/extension-darkenate)\
 [**PteroMonaco**](https://github.com/blueprint-community/extension-pteromonaco)\
 [**Redirect**](https://github.com/blueprint-community/extension-redirect)\
-[**Snowflakes**](https://github.com/blueprint-community/extension-snowflakes)
+[**Snowflakes**](https://github.com/blueprint-community/extension-snowflakes)\
+[**Social Login**](https://github.com/blueprint-community/extension-sociallogin)
 
 ### GitHub Actions
 
